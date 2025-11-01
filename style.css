@@ -8,3 +8,23 @@ body {
 img {
     width: 200px;
 }
+
+.daohang{
+    display:flex;
+    justify-content: center;
+    list-style-type: none;
+    background-color: darkcyan;
+}
+.navlist{
+    display:block;
+}
+a {
+    text-decoration: none;
+    color: aqua;
+}
+a:focus {
+    color:rgb(2, 105, 184);
+}
+a:hover {
+    color:rgb(2, 105, 184);
+}
